@@ -1,2 +1,6 @@
-# sql
-all sql query
+# SQL Queries
+
+first command
+```
+CREATE DATABASE NAME;
+```
