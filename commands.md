@@ -1,3 +1,4 @@
+```
 SHOW DATABASES;
 CREATE DATABASE database_name;
 DROP DATABASE database_name;
